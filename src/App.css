@@ -39,14 +39,12 @@ body{
   }
 }
 .todo-row{
-  background-color: rgb(133, 217, 133);
+  background-color:darkcyan;
   width:200px;
   display:flex;
   flex-direction: column;
-  /* justify-content: center; */
   margin:auto auto;
   margin-top: 10px;
-  /* align-items: center; */
   border:1px solid black;
   margin-bottom: 10px;
 }
